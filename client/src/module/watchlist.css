@@ -1,0 +1,36 @@
+.header{
+    background: rgba(217, 217, 217, 0.1);
+    border: 1px solid #A41B1B;
+    border-radius: 8px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 55px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #E1E1E1;
+    padding: 24px 41px;
+    margin: 5rem 0 10rem;
+}
+.list_header .title{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    display: flex;
+    align-items: center;
+    
+    color: #E1E1E1;
+}
+.list_header{
+    display: flex;
+    justify-content: space-between;
+    margin: 5rem 0;
+}
+.archive{
+    font-size: 50px;
+    transform: rotate(90deg);
+}

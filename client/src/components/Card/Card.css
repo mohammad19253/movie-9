@@ -1,0 +1,33 @@
+.card_container{
+    position: relative;
+    border-radius: 8px;
+    background-color: #1F1F1F;
+    min-height: 487px;
+}
+.img{
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    height:322.28px ;
+    width: 100% ;
+    object-fit: cover;
+}
+.details{
+    padding: 41px 24px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #E1E1E1;
+}
+.archive{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.star-icon{
+    color: yellow;
+}
+.imbd{
+    display: flex;
+}
